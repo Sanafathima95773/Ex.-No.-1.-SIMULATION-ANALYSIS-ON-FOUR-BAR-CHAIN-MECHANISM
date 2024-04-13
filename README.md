@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Sanafathima95773/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147084627/004f8076-7d7c-4c56-92dd-57da8d39f152)
 
 
-### Name:
-### Register Number: 
+### Name: Sana Fathima H
+### Register Number: 212223240145
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
